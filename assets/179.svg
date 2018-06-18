@@ -1,0 +1,26 @@
+<svg version="1.1" width="241" height="34" viewBox="1 -1 241 34" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <text id="ID0.439364040736109" fill="#FFFF00" x="230" y="263.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 0, 8.5)">MATCH TIME:</text>
+  <path id="ID0.10320674441754818" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="2" stroke-linecap="round" d="M 234.500 223 L 257.500 207.500 L 258.500 236.500 L 234.500 223 Z " transform="matrix(1, 0, 0, 1, -106, -206)"/>
+  <text id="ID0.9963127882219851" fill="#FFFF00" x="208" y="263.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 135, 5.5)">Q</text>
+  <path id="ID0.10320674441754818" fill="url(#grad_3)" stroke="url(#grad_4)" stroke-width="2" stroke-linecap="round" d="M 234.500 223 L 257.500 207.500 L 258.500 236.500 L 234.500 223 Z " transform="matrix(-1, 0, 0, 1, 474.5, -206.5)"/>
+  <text id="ID0.5759071884676814" fill="#FFFF00" x="398" y="166.2" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 212.5, 7)">W</text>
+</svg>

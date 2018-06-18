@@ -1,0 +1,16 @@
+<svg version="1.1" width="200" height="105" viewBox="-1 -1 200 105" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00FFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#003FFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.6608928767964244" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="11" stroke-linecap="round" d="M 143.300 172.200 L 331.100 172.200 L 250.900 264.900 L 143.300 264.450 L 143.300 172.200 Z " transform="matrix(-1, 0, 0, -1, 337.4, 271)"/>
+  <text id="ID0.4558510244823992" fill="#FFFFFF" x="207" y="189.25" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1.0379929542541504, 0, 0, 1.0379929542541504, 77.1, 18.05)">SHOWDOWN</text>
+  <text id="ID0.8184097488410771" fill="#FFFFFF" x="185" y="195.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.726464033126831, 0, 0, 0.726464033126831, 83, 43.9)">MULTIPLAYER</text>
+</svg>

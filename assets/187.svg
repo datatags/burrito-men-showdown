@@ -1,0 +1,16 @@
+<svg version="1.1" width="294" height="68" viewBox="-1 -1 294 68" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#FFFF99" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00FFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#66004C" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.8161945226602256" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="11" stroke-linecap="round" d="M 98 231 L 151 177 L 325.500 177.500 L 379 232 L 98 231 Z " transform="matrix(1, 0, 0, 1, -92, -171)"/>
+  <text id="ID0.789802813436836" fill="#FF0000" x="207.55" y="255.45" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.714893639087677, 0, 0, 0.714893639087677, 92.3, 39.3)">SINGLEPLAYER</text>
+  <text id="ID0.9272078890353441" fill="#FF0000" x="170" y="168.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 55, 16.5)">ELEMENTAL STRIKE</text>
+</svg>

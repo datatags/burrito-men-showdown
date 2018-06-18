@@ -1,0 +1,50 @@
+<svg version="1.1" width="655" height="581" viewBox="-1 -1 655 581" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#001966" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#7F7F7F" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#7F7F7F" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" y2="1">
+      <stop offset="0" stop-color="#7FFF97" stop-opacity="1"/>
+      <stop offset="1" stop-color="#C68DFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_6" y2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#7F7F7F" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_7" y2="1">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#7F7F7F" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_8" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.22965509304776788" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="2" d="M 229.350 172.400 L 255.250 172.400 L 255.250 189.400 L 229.350 189.400 L 229.350 172.400 Z " transform="matrix(3.9905264377593994, 0, 0, 2.8779077529907227, -910.6, -492.75)"/>
+  <g id="ID0.649569439701736" transform="matrix(0.1078248992562294, 0, 0, 0.06914951652288437, 21, 12.9)">
+    <path id="ID0.013224039692431688" fill="#7F7F7F" stroke="none" d="M 240 176 L 286 176 L 286 245 L 240 245 L 240 176 Z " transform="matrix(1, 0, 0, 1, 80, 25)"/>
+    <path id="ID0.43157049221917987" fill="url(#grad_3)" stroke="none" d="M 363 110 L 434 110 L 434 218 L 363 218 L 363 110 Z " transform="matrix(-0.7210184931755066, -2.1675310134887695, 0.3429313004016876, -0.11407441645860672, 396.05, 1194.45)"/>
+    <path id="ID0.43157049221917987" fill="url(#grad_4)" stroke="none" d="M 363 110 L 434 110 L 434 218 L 363 218 L 363 110 Z " transform="matrix(-0.7210184931755066, -2.1675310134887695, 0.3429313004016876, -0.11407441645860672, 441.2, 1131.25)"/>
+    <path id="ID0.827340776566416" fill="url(#grad_5)" stroke="none" d="M 264.500 87 C 303.263 87 338.388 102.295 363.822 127.006 C 389.256 151.716 405 185.841 405 223.500 C 405 261.159 389.256 295.284 363.822 319.994 C 338.388 344.705 303.263 360 264.500 360 C 225.737 360 190.612 344.705 165.178 319.994 C 139.744 295.284 124 261.159 124 223.500 C 124 185.841 139.744 151.716 165.178 127.006 C 190.612 102.295 225.737 87 264.500 87 Z " transform="matrix(2.3254146575927734, 0, 0, 1.2436033487319946, -287.65, 132.25)"/>
+    <path id="ID0.43157049221917987" fill="url(#grad_6)" stroke="none" d="M 363 110 L 434 110 L 434 218 L 363 218 L 363 110 Z " transform="matrix(2.179807424545288, 0.6830062866210938, -0.10806038230657578, 0.3448736071586609, -350.05, -68.1)"/>
+    <path id="ID0.7033835165202618" fill="url(#grad_7)" stroke="none" d="M 145 33 L 265 33 L 265 210 L 145 210 L 145 33 Z " transform="matrix(0.9481695294380188, 0.31776490807533264, -0.4214226007461548, 1.257470726966858, 396.9, -86.6)"/>
+    <path id="ID0.8254298348911107" fill="#666666" stroke="none" d="M 137 152 L 240 152 L 240 169 L 137 169 L 137 152 Z " transform="matrix(0.9451901912689209, 0.32652026414871216, -0.32652026414871216, 0.9451901912689209, 307.7, -106.6)"/>
+    <path id="ID0.16514390520751476" fill="#7F7F7F" stroke="none" d="M 56 100 L 179 100 L 179 112 L 56 112 L 56 100 Z " transform="matrix(0.9529258012771606, -0.30320367217063904, 0.30320367217063904, 0.9529258012771606, 79.5, 92.6)"/>
+  </g>
+  <path id="ID0.9680157378315926" fill="#000000" stroke="url(#grad_8)" stroke-width="3" d="M 213.050 193.050 L 266.400 193.050 L 266.400 217.500 L 213.050 217.500 L 213.050 193.050 Z " transform="matrix(1.971341848373413, 0, 0, 1.256237268447876, -416.55, -198.9)"/>
+  <text id="ID0.8694763821549714" fill="#FFFFFF" x="198.5" y="211.75" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.611683189868927, 0, 0, 0.611683189868927, 19.3, 50.15)">Planet Box</text>
+</svg>

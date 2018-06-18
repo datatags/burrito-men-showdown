@@ -1,0 +1,15 @@
+<svg version="1.1" width="67" height="35" viewBox="-1 -1 67 35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.08755464013665915" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="4" d="M 194.250 168.500 L 255.250 168.500 L 255.250 198 L 194.250 198 L 194.250 168.500 Z " transform="matrix(1, 0, 0, 1, -191.75, -166.5)"/>
+  <text id="ID0.8530726074241102" fill="#FFFF00" x="225.5" y="178.95" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.41489362716674805, 0, 0, 0.41489362716674805, 5.25, 11.8)">COM LEVEL: 2</text>
+</svg>

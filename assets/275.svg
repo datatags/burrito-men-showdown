@@ -1,0 +1,23 @@
+<svg version="1.1" width="756" height="529" viewBox="-1 -1 756 529" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#003FFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#7F00FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00FF55" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#CC99FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00FF55" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.317322563380003" fill="url(#grad_1)" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z "/>
+  <path id="ID0.4308480550535023" fill="#666666" stroke="none" d="M 255 93 L 290 93 L 290 152 L 255 152 L 255 93 Z " transform="matrix(1.6841089725494385, -0.32672709226608276, 0.4869964122772217, 2.53399658203125, -448.7, -78.55)"/>
+  <path id="ID0.4308480550535023" fill="#666666" stroke="none" d="M 255 93 L 290 93 L 290 152 L 255 152 L 255 93 Z " transform="matrix(0.9486833214759827, -0.3162277638912201, 0.3162277638912201, 0.9486833214759827, -73.5, 107.75)"/>
+  <path id="ID0.4308480550535023" fill="#666666" stroke="none" d="M 255 93 L 290 93 L 290 152 L 255 152 L 255 93 Z " transform="matrix(0.9486833214759827, -0.3162277638912201, 0.3162277638912201, 0.9486833214759827, -35.6, 74.45)"/>
+  <path id="ID0.1148872273042798" fill="url(#grad_2)" stroke="none" d="M 323 31 C 366.315 31 405.565 49.377 433.986 79.065 C 462.408 108.754 480 149.754 480 195 C 480 240.246 462.408 281.246 433.986 310.935 C 405.565 340.623 366.315 359 323 359 C 279.685 359 240.435 340.623 212.014 310.935 C 183.592 281.246 166 240.246 166 195 C 166 149.754 183.592 108.754 212.014 79.065 C 240.435 49.377 279.685 31 323 31 Z " transform="matrix(1.6687898635864258, 0, 0, 1, -159, 71)"/>
+  <path id="ID0.1148872273042798" fill="url(#grad_3)" stroke="none" d="M 323 31 C 366.315 31 405.565 49.377 433.986 79.065 C 462.408 108.754 480 149.754 480 195 C 480 240.246 462.408 281.246 433.986 310.935 C 405.565 340.623 366.315 359 323 359 C 279.685 359 240.435 340.623 212.014 310.935 C 183.592 281.246 166 240.246 166 195 C 166 149.754 183.592 108.754 212.014 79.065 C 240.435 49.377 279.685 31 323 31 Z " transform="matrix(1.961783528327942, 0, 0, 1, -438.6, 168)"/>
+</svg>

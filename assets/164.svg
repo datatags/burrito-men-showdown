@@ -1,0 +1,57 @@
+<svg version="1.1" width="525" height="285" viewBox="-1 -1 525 285" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" y2="1">
+      <stop offset="0" stop-color="#E5E5E5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_6" y2="1">
+      <stop offset="0" stop-color="#660000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_7" y2="1">
+      <stop offset="0" stop-color="#660000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_8" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_9" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_10" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.22965509304776788" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="2" d="M 229.350 172.400 L 255.250 172.400 L 255.250 189.400 L 229.350 189.400 L 229.350 172.400 Z " transform="matrix(3.9905264377593994, 0, 0, 2.8779077529907227, -910.35, -492.75)"/>
+  <path id="ID0.9680157378315926" fill="#000000" stroke="url(#grad_3)" stroke-width="3" d="M 213.050 193.050 L 266.400 193.050 L 266.400 217.500 L 213.050 217.500 L 213.050 193.050 Z " transform="matrix(1.971341848373413, 0, 0, 1.256237268447876, -416.55, -198.9)"/>
+  <text id="ID0.8694763821549714" fill="#FFFFFF" x="198.5" y="211.75" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.597736120223999, 0, 0, 0.597736120223999, 8.55, 50.65)">Battle Building</text>
+  <g id="ID0.6529254773631692" transform="matrix(0.18566331267356873, 0, 0, 0.10864149034023285, 8.05, 9.8)">
+    <path id="ID0.9625162417069077" fill="url(#grad_4)" stroke="none" d="M 0 311 L 480 311 L 480 360 L 0 360 L 0 311 Z " transform="matrix(1, 0, 0, 1, 18, -77)"/>
+    <path id="ID0.5604774695821106" fill="url(#grad_5)" stroke="none" d="M 66 262 L 415 262 L 415 312 L 66 312 L 66 262 Z " transform="matrix(1, 0, 0, 1, 18, -78)"/>
+    <path id="ID0.8571244990453124" fill="#FF0000" stroke="url(#grad_6)" stroke-width="2" d="M 73 207 L 79 207 L 79 261 L 73 261 L 73 207 Z " transform="matrix(1, 0, 0, 1, 18, -77)"/>
+    <path id="ID0.8571244990453124" fill="#FF0000" stroke="url(#grad_7)" stroke-width="2" d="M 73 207 L 79 207 L 79 261 L 73 261 L 73 207 Z " transform="matrix(1, 0, 0, 1, 347, -78)"/>
+    <path id="ID0.006596142891794443" fill="url(#grad_8)" stroke="none" d="M 99 63 L 244 63 L 244 85 L 99 85 L 99 63 Z " transform="matrix(0.5786091089248657, 0.1290200650691986, -0.21768565475940704, 0.9760189056396484, -38.35, -47.7)"/>
+    <path id="ID0.8805625271052122" fill="url(#grad_9)" stroke="none" d="M 160 66 L 324 66 L 324 85 L 160 85 L 160 66 Z " transform="matrix(1, 0, 0, 1, 17, -66)"/>
+    <path id="ID0.006596142891794443" fill="url(#grad_10)" stroke="none" d="M 99 63 L 244 63 L 244 85 L 99 85 L 99 63 Z " transform="matrix(-0.5786091089248657, 0.1290200650691986, 0.21768566966056824, 0.9760189056396484, 562.95, -50.5)"/>
+  </g>
+</svg>

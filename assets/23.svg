@@ -1,0 +1,15 @@
+<svg version="1.1" width="27" height="9" viewBox="1 -1 27 9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.49132232973352075" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="2" stroke-linecap="round" d="M 241 182.500 L 241.500 176.750 L 221.250 179.500 L 241 182.500 Z " transform="matrix(1, 0, 0, 1, -220.25, -175)"/>
+  <path id="ID0.05710949841886759" fill="#000000" stroke="none" d="M 248.250 173 C 249.698 173 251.011 173.532 251.961 174.392 C 252.912 175.252 253.500 176.440 253.500 177.750 C 253.500 179.060 252.912 180.248 251.961 181.108 C 251.011 181.968 249.698 182.500 248.250 182.500 C 246.802 182.500 245.489 181.968 244.539 181.108 C 243.588 180.248 243 179.060 243 177.750 C 243 176.440 243.588 175.252 244.539 174.392 C 245.489 173.532 246.802 173 248.250 173 Z " transform="matrix(0.8095238208770752, 0, 0, 0.8095238208770752, -177.5, -139.45)"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.1" width="59" height="11" viewBox="3 2 59 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x2="1">
+      <stop offset="0" stop-color="#00FF55" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00FF55" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" x2="1">
+      <stop offset="0" stop-color="#FFFF00" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9357574349269271" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="6" stroke-linecap="round" d="M 247 138.900 C 251.957 138.722 256.964 139.000 261.857 139.991 C 264.152 140.456 268.100 141.963 268.100 143.225 C 268.100 144.487 265.713 145.631 261.857 146.459 C 258.001 147.287 251.834 147.741 246.800 147.800 C 241.745 147.859 236.799 147.331 231.900 146.800 C 224.621 146.032 210.276 144.533 210.250 143.900 C 210.224 143.267 224.350 141.815 231.400 140.800 C 236.589 140.150 241.765 139.088 247 138.900 Z " transform="matrix(1, 0, 0, 1, -207, -135)"/>
+</svg>
