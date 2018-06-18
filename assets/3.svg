@@ -1,0 +1,42 @@
+<svg version="1.1" width="525" height="285" viewBox="-1 -1 525 285" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#E5E5E5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#660000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#660000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_6" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_7" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#666666" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.6529254773631692" transform="matrix(1, 0, 0, 1, 18, -77)">
+    <path id="ID0.9625162417069077" fill="url(#grad_1)" stroke="none" d="M 0 311 L 480 311 L 480 360 L 0 360 L 0 311 Z "/>
+    <path id="ID0.5604774695821106" fill="url(#grad_2)" stroke="none" d="M 66 262 L 415 262 L 415 312 L 66 312 L 66 262 Z " transform="matrix(1, 0, 0, 1, 0, -1)"/>
+    <path id="ID0.8571244990453124" fill="#FF0000" stroke="url(#grad_3)" stroke-width="2" d="M 73 207 L 79 207 L 79 261 L 73 261 L 73 207 Z "/>
+    <path id="ID0.8571244990453124" fill="#FF0000" stroke="url(#grad_4)" stroke-width="2" d="M 73 207 L 79 207 L 79 261 L 73 261 L 73 207 Z " transform="matrix(1, 0, 0, 1, 329, -1)"/>
+    <path id="ID0.006596142891794443" fill="url(#grad_5)" stroke="none" d="M 99 63 L 244 63 L 244 85 L 99 85 L 99 63 Z " transform="matrix(0.5786091089248657, 0.1290200650691986, -0.21768565475940704, 0.9760189056396484, -56.35, 29.3)"/>
+    <path id="ID0.8805625271052122" fill="url(#grad_6)" stroke="none" d="M 160 66 L 324 66 L 324 85 L 160 85 L 160 66 Z " transform="matrix(1, 0, 0, 1, -1, 11)"/>
+    <path id="ID0.006596142891794443" fill="url(#grad_7)" stroke="none" d="M 99 63 L 244 63 L 244 85 L 99 85 L 99 63 Z " transform="matrix(-0.5786091089248657, 0.1290200650691986, 0.21768566966056824, 0.9760189056396484, 544.95, 26.5)"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg version="1.1" width="483" height="362" viewBox="-1 -1 483 362" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00FFFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.45171431824564934" fill="none" stroke="#FFFF00" stroke-width="2" stroke-linecap="round" d="M 480 136.700 L 480.300 137 "/>
+  <path id="ID0.40563232032582164" fill="url(#grad_1)" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z "/>
+  <text id="ID0.8185138204135001" fill="#FF0000" x="169.75" y="233.25" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(2.8445475101470947, 0, 0, 2.8445475101470947, 2.5, 9.4)">MATCH OVER!</text>
+  <text id="ID0.8185138204135001" fill="#003FFF" x="169.75" y="233.25" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(2.8445475101470947, 0, 0, 2.8445475101470947, 7.15, 292.8)">MATCH OVER!</text>
+  <text id="ID0.6772149265743792" fill="#003FFF" x="63.1" y="281.05" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 36.7, 267.2)">PRESS [Z] AND [X] TO CONTINUE</text>
+  <text id="ID0.6772149265743792" fill="#FF0000" x="63.1" y="281.05" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 37.2, 71.85)">PRESS [Z] AND [X] TO CONTINUE</text>
+  <text id="ID0.5033391695469618" fill="#00FFFF" x="257" y="202.2" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 232, 141)">P1 HP:</text>
+  <text id="ID0.5033391695469618" fill="#FF0000" x="257" y="202.2" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 352, 140.5)">P2 HP:</text>
+  <text id="ID0.5033391695469618" fill="#00FFFF" x="257" y="202.2" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.8648648858070374, 0, 0, 0.8648648858070374, 223.75, 185.3)">P1 WINS:</text>
+  <text id="ID0.5033391695469618" fill="#FF0000" x="257" y="202.2" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.8648648858070374, 0, 0, 0.8648648858070374, 350.15, 183.25)">P2 WINS:</text>
+</svg>

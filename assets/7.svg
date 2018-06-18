@@ -1,0 +1,58 @@
+<svg version="1.1" width="499" height="265" viewBox="-1 -1 499 265" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CCCCCC" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.888069658074528" transform="matrix(1, 0, 0, 1, 18, -110)">
+    <path id="ID0.7933359388262033" fill="#7F7F7F" stroke="none" d="M 26 226 L 354 226 L 354 245 L 26 245 L 26 226 Z " transform="matrix(0.6399899125099182, 0.3918305039405823, -0.5221538543701172, 0.8528513312339783, 93.85, 25.7)"/>
+    <path id="ID0.2962066074833274" fill="#7F7F7F" stroke="none" d="M 306 272 L 480 272 L 480 284 L 306 284 L 306 272 Z " transform="matrix(0.6368814706802368, -0.7709617614746094, 0.7709617614746094, 0.6368814706802368, -76.5, 410.9)"/>
+    <path id="ID0.7882018317468464" fill="#CCCCCC" stroke="none" d="M 0 345 L 480 345 L 480 360 L 0 360 L 0 345 Z "/>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 18, -110)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 18, -110)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 82, -108.5)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 82, -108.5)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 149, -110)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 149, -110)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 215, -110)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 215, -110)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 288, -109.5)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 288, -109.5)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 356, -110)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 356, -110)"/>
+    </g>
+    <g id="ID0.9297875366173685" transform="matrix(1, 0, 0, 1, -18, 110)">
+      <path id="ID0.19850149424746633" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 22 345 L 7 360 " transform="matrix(1, 0, 0, 1, 425, -110)"/>
+      <path id="ID0.06674571055918932" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-linecap="round" d="M 53 345 L 41 360 " transform="matrix(1, 0, 0, 1, 425, -110)"/>
+    </g>
+    <path id="ID0.34090040624141693" fill="url(#grad_1)" stroke="none" d="M 181 154 L 264 154 L 264 346 L 181 346 L 181 154 Z "/>
+    <text id="ID0.7844798201695085" fill="#666666" x="111" y="272" text-anchor="start" font-family="Donegal" font-size="22" transform="matrix(0.4580690562725067, 0, 0, 0.4580690562725067, 181, 160.15)">PLATFORM9 3/4</text>
+    <text id="ID0.6613732716068625" fill="#666666" x="192" y="222" text-anchor="start" font-family="Donegal" font-size="22" transform="matrix(0.4991212785243988, 0, 0, 0.4991212785243988, 187, 211.35)">010101010101010101</text>
+    <text id="ID0.42452261317521334" fill="#666666" x="236" y="297" text-anchor="start" font-family="Donegal" font-size="22" transform="matrix(0.35120460391044617, 0, 0, 0.35120460391044617, 193, 301.45)">WARNING:NO TOUCH!</text>
+    <path id="ID0.7939106244593859" fill="url(#grad_2)" stroke="none" d="M 263 153 L 385 153 L 385 162 L 263 162 L 263 153 Z " transform="matrix(1.23001229763031, 0, 0, 14.304293632507324, -62.5, -1972.35)"/>
+    <path id="ID0.43969860300421715" fill="url(#grad_3)" stroke="none" d="M 411 110 L 480 110 L 480 345 L 411 345 L 411 110 Z "/>
+    <path id="ID0.7798298127017915" fill="none" stroke="#7F7F7F" stroke-width="2" d="M 433 271 L 462 271 L 462 340 L 433 340 L 433 271 Z "/>
+    <path id="ID0.7798298127017915" fill="none" stroke="#7F7F7F" stroke-width="2" d="M 433 271 L 462 271 L 462 340 L 433 340 L 433 271 Z " transform="matrix(1, 0, 0, 1, -1.5, -88.5)"/>
+  </g>
+</svg>

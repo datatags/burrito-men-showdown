@@ -1,0 +1,42 @@
+<svg version="1.1" width="482" height="195" viewBox="-1 -1 482 195" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9999" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_5" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_6" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_7" y2="1">
+      <stop offset="0" stop-color="#B2B2B2" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.22965509304776788" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="2" d="M 229.350 172.400 L 255.250 172.400 L 255.250 189.400 L 229.350 189.400 L 229.350 172.400 Z " transform="matrix(3.9905264377593994, 0, 0, 2.8779077529907227, -910.6, -492.75)"/>
+  <path id="ID0.9680157378315926" fill="#000000" stroke="url(#grad_3)" stroke-width="3" d="M 213.050 193.050 L 266.400 193.050 L 266.400 217.500 L 213.050 217.500 L 213.050 193.050 Z " transform="matrix(1.971341848373413, 0, 0, 1.256237268447876, -416.55, -198.9)"/>
+  <text id="ID0.8694763821549714" fill="#FFFFFF" x="198.5" y="211.75" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.44671374559402466, 0, 0, 0.44671374559402466, 9.4, 55.1)">World of Weisboys</text>
+  <g id="ID0.18573415512219071" transform="matrix(0.17847324907779694, 0, 0, 0.12953367829322815, 12.4, 13)">
+    <path id="ID0.8883415944874287" fill="url(#grad_4)" stroke="none" d="M 0 338 L 480 338 L 480 360 L 0 360 L 0 338 Z " transform="matrix(1, 0, 0, 1, 0, -167)"/>
+    <path id="ID0.7256244132295251" fill="url(#grad_5)" stroke="none" d="M 64 249 L 170 249 L 170 265 L 64 265 L 64 249 Z " transform="matrix(1, 0, 0, 1, 0, -167)"/>
+    <path id="ID0.7256244132295251" fill="url(#grad_6)" stroke="none" d="M 64 249 L 170 249 L 170 265 L 64 265 L 64 249 Z " transform="matrix(1, 0, 0, 1, 235, -168)"/>
+    <path id="ID0.7256244132295251" fill="url(#grad_7)" stroke="none" d="M 64 249 L 170 249 L 170 265 L 64 265 L 64 249 Z " transform="matrix(1, 0, 0, 1, 118, -249)"/>
+  </g>
+</svg>

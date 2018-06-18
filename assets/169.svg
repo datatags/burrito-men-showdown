@@ -1,0 +1,24 @@
+<svg version="1.1" width="484" height="281" viewBox="-1 -1 484 281" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#00FFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.22965509304776788" fill="#000000" stroke="url(#grad_1)" stroke-width="2" d="M 229.350 172.400 L 255.250 172.400 L 255.250 189.400 L 229.350 189.400 L 229.350 172.400 Z " transform="matrix(3.9905264377593994, 0, 0, 2.8779077529907227, -910.6, -492.75)"/>
+  <path id="ID0.9680157378315926" fill="#000000" stroke="url(#grad_2)" stroke-width="3" d="M 213.050 193.050 L 266.400 193.050 L 266.400 217.500 L 213.050 217.500 L 213.050 193.050 Z " transform="matrix(1.971341848373413, 0, 0, 1.256237268447876, -416.55, -198.9)"/>
+  <text id="ID0.8694763821549714" fill="#FFFFFF" x="198.5" y="211.75" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.5593528747558594, 0, 0, 0.5593528747558594, 9.55, 53.85)">Da Box Realm</text>
+  <g id="ID0.45573594234883785" transform="matrix(0.20216527581214905, 0, 0, 0.12365590035915375, 7.55, 8.65)">
+    <path id="ID0.030868766829371452" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 253 269 L 308 269 L 308 345 L 253 345 L 253 269 Z " transform="matrix(1, 0, 0, 1, 170.5, -268)"/>
+    <path id="ID0.030868766829371452" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 253 269 L 308 269 L 308 345 L 253 345 L 253 269 Z " transform="matrix(1, 0, 0, 1, 1, -82)"/>
+    <path id="ID0.22664008056744933" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 353 153 L 480 153 L 480 360 L 353 360 L 353 153 Z " transform="matrix(1, 0, 0, 1, 1, -82)"/>
+    <path id="ID0.9402774777263403" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 0 188 L 199 188 L 199 356 L 0 356 L 0 188 Z " transform="matrix(1, 0, 0, 1, 1, -82)"/>
+    <path id="ID0.006212519481778145" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 0 340 L 480 340 L 480 360 L 0 360 L 0 340 Z " transform="matrix(1, 0, 0, 1, 1, -82)"/>
+    <path id="ID0.3580272742547095" fill="#000000" stroke="#FFFFFF" stroke-width="2" d="M 241 103 L 311 103 L 311 122 L 241 122 L 241 103 Z " transform="matrix(1, 0, 0, 1, -1, -102)"/>
+  </g>
+</svg>

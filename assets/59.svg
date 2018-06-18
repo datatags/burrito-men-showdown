@@ -1,0 +1,24 @@
+<svg version="1.1" width="92" height="96" viewBox="-1 -1 92 96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#003FFF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#003FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_4" y2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#003FFF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.16625040117651224" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="7" stroke-linecap="round" d="M 220.750 135.500 C 232.268 135.500 242.706 139.814 250.264 146.784 C 257.822 153.753 262.500 163.378 262.500 174 C 262.500 184.622 257.822 194.247 250.264 201.216 C 242.706 208.186 232.268 212.500 220.750 212.500 C 209.232 212.500 198.794 208.186 191.236 201.216 C 183.678 194.247 179 184.622 179 174 C 179 163.378 183.678 153.753 191.236 146.784 C 198.794 139.814 209.232 135.500 220.750 135.500 Z " transform="matrix(1, 0, 0, 1, -175, -131.5)"/>
+  <path id="ID0.7642397922463715" fill="url(#grad_3)" stroke="url(#grad_4)" stroke-width="2" d="M 249.875 175.300 C 256.048 175.300 261.642 176.488 265.692 178.407 C 269.743 180.326 272.250 182.976 272.250 185.900 C 272.250 188.824 269.743 191.474 265.692 193.393 C 261.642 195.312 256.048 196.500 249.875 196.500 C 243.702 196.500 238.108 195.312 234.058 193.393 C 230.007 191.474 227.500 188.824 227.500 185.900 C 227.500 182.976 230.007 180.326 234.058 178.407 C 238.108 176.488 243.702 175.300 249.875 175.300 Z " transform="matrix(1.6279329061508179, 0, 0, 1.6279329061508179, -360.85, -226.85)"/>
+  <text id="ID0.5244844369590282" fill="#00FFFF" x="198" y="185.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1.8194069862365723, 0, 0, 1.8194069862365723, 18.5, 12.75)">P1</text>
+</svg>
