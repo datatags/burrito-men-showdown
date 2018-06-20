@@ -1,5 +1,4 @@
-<svg version="1.1" width="319" height="47" viewBox="1 0 319 47" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="8" height="8" viewBox="-1 -1 8 8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Exported by Scratch - http://scratch.mit.edu/ -->
-  <text id="ID0.28556768456473947" fill="#FFFF00" x="248.5" y="212.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.5372092723846436, 0, 0, 0.5372092723846436, 0.75, 0.25)">Player 1: Use the mouse to select hero!Player 2: Use the arrow keys to select hero and then press SPACE!</text>
-  <text id="ID0.6442404771223664" fill="#FFFF00" x="145" y="280.7" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1, 0, 0, 1, 0, 27.5)">PLEASE SELECT PLAYER 1 LAST!!!</text>
+  <path id="ID0.3582058195024729" fill="#FFFFFF" stroke="none" d="M 241.500 174 C 243.914 174 246.102 174.910 247.686 176.381 C 249.270 177.852 250.250 179.883 250.250 182.125 C 250.250 184.367 249.270 186.398 247.686 187.869 C 246.102 189.340 243.914 190.250 241.500 190.250 C 239.086 190.250 236.898 189.340 235.314 187.869 C 233.730 186.398 232.750 184.367 232.750 182.125 C 232.750 179.883 233.730 177.852 235.314 176.381 C 236.898 174.910 239.086 174 241.500 174 Z " transform="matrix(0.3857142925262451, 0, 0, 0.3857142925262451, -89.15, -66.3)"/>
 </svg>

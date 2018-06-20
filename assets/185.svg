@@ -1,16 +1,10 @@
-<svg version="1.1" width="201" height="106" viewBox="-1 -1 201 106" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" width="37" height="5" viewBox="-1 -1 37 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="grad_1" y2="1">
-      <stop offset="0" stop-color="#FF0000" stop-opacity="1"/>
-      <stop offset="1" stop-color="#FFFF00" stop-opacity="1"/>
-    </linearGradient>
-    <linearGradient id="grad_2" y2="1">
+    <radialGradient id="grad_1" cx="0.4461" cy="0.4493" r="0.7200700000000001">
       <stop offset="0" stop-color="#FFFF00" stop-opacity="1"/>
-      <stop offset="1" stop-color="#FF0000" stop-opacity="1"/>
-    </linearGradient>
+      <stop offset="1" stop-color="#FFFF00" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <!-- Exported by Scratch - http://scratch.mit.edu/ -->
-  <path id="ID0.6608928767964244" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="11" stroke-linecap="round" d="M 143.300 172.200 L 331.100 172.200 L 250.900 264.900 L 143.300 264.450 L 143.300 172.200 Z " transform="matrix(1, 0, 0, 1, -137, -166)"/>
-  <text id="ID0.258288764860481" fill="#FFFFFF" x="57.55" y="312.15" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1.311049222946167, 0, 0, 1.311049222946167, 14.05, 21.3)">SHOWDOWN</text>
-  <text id="ID0.789802813436836" fill="#FFFFFF" x="207.55" y="255.45" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(0.714893639087677, 0, 0, 0.714893639087677, 18.3, 54.3)">SINGLEPLAYER</text>
+  <path id="ID0.3582058195024729" fill="#FFFFFF" stroke="url(#grad_1)" stroke-width="2" d="M 241.500 174 C 243.914 174 246.102 174.910 247.686 176.381 C 249.270 177.852 250.250 179.883 250.250 182.125 C 250.250 184.367 249.270 186.398 247.686 187.869 C 246.102 189.340 243.914 190.250 241.500 190.250 C 239.086 190.250 236.898 189.340 235.314 187.869 C 233.730 186.398 232.750 184.367 232.750 182.125 C 232.750 179.883 233.730 177.852 235.314 176.381 C 236.898 174.910 239.086 174 241.500 174 Z " transform="matrix(1.8026705980300903, 0, 0, 0.17384982109069824, -417.75, -29.8)"/>
 </svg>
