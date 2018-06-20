@@ -1,0 +1,39 @@
+<svg version="1.1" width="490" height="406" viewBox="-1 -1 490 406" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1">
+      <stop offset="0" stop-color="#663B00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#995900" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.0019316780380904675" fill="url(#grad_1)" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z "/>
+  <path id="ID0.8908582432195544" fill="none" stroke="#CC7700" stroke-width="2" d="M 2 57 L 157 57 L 157 109 L 2 109 L 2 57 Z "/>
+  <path id="ID0.8535114303231239" fill="none" stroke="#CC7700" stroke-width="2" d="M 125 86 L 270 86 L 270 143 L 125 143 L 125 86 Z "/>
+  <path id="ID0.2714495873078704" fill="none" stroke="#CC7700" stroke-width="2" d="M 83 160 L 123 160 L 123 192 L 83 192 L 83 160 Z "/>
+  <path id="ID0.6890705614350736" fill="none" stroke="#CC7700" stroke-width="2" d="M 158 170 L 247 170 L 247 250 L 158 250 L 158 170 Z "/>
+  <path id="ID0.08498397329822183" fill="none" stroke="#CC7700" stroke-width="2" d="M 116 212 L 213 212 L 213 280 L 116 280 L 116 212 Z "/>
+  <path id="ID0.8120010960847139" fill="none" stroke="#CC7700" stroke-width="2" d="M 0 189 L 96 189 L 96 280 L 0 280 L 0 189 Z "/>
+  <path id="ID0.20109305856749415" fill="none" stroke="#CC7700" stroke-width="2" d="M 314 30 L 480 30 L 480 141 L 314 141 L 314 30 Z "/>
+  <path id="ID0.8263198691420257" fill="none" stroke="#CC7700" stroke-width="2" d="M 163 1 L 236 1 L 236 44 L 163 44 L 163 1 Z "/>
+  <path id="ID0.9707028046250343" fill="none" stroke="#CC7700" stroke-width="2" d="M 265 166 L 480 166 L 480 339 L 265 339 L 265 166 Z "/>
+  <path id="ID0.13749799970537424" fill="none" stroke="#CC7700" stroke-width="2" d="M 208 301 L 354 301 L 354 360 L 208 360 L 208 301 Z "/>
+  <path id="ID0.6077104234136641" fill="none" stroke="#CC7700" stroke-width="2" d="M 18 306 L 105 306 L 105 360 L 18 360 L 18 306 Z "/>
+  <path id="ID0.9706316627562046" fill="none" stroke="#CC7700" stroke-width="2" d="M 93 285 L 169 285 L 169 343 L 93 343 L 93 285 Z "/>
+  <path id="ID0.03967491490766406" fill="none" stroke="#CC7700" stroke-width="2" d="M 366 221 L 475 221 L 475 292 L 366 292 L 366 221 Z "/>
+  <path id="ID0.5399017143063247" fill="none" stroke="#CC7700" stroke-width="2" d="M 391 80 L 449 80 L 449 140 L 391 140 L 391 80 Z "/>
+  <path id="ID0.0905009750276804" fill="none" stroke="#CC7700" stroke-width="2" d="M 260 28 L 351 28 L 351 86 L 260 86 L 260 28 Z "/>
+  <path id="ID0.9515681085176766" fill="url(#grad_2)" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z " transform="matrix(1, 0, 0, 0.6083333492279053, 0, 0)"/>
+  <path id="ID0.9515681085176766" fill="url(#grad_3)" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z " transform="matrix(1, 0, 0, -0.6083333492279053, -1, 404.5)"/>
+  <path id="ID0.8497641603462398" fill="none" stroke="#81290C" stroke-width="15" stroke-linecap="round" d="M 198.350 140.450 L 279 304 " transform="matrix(1, 0, 0, 1, 7, 30)"/>
+  <path id="ID0.8497641603462398" fill="none" stroke="#81290C" stroke-width="15" stroke-linecap="round" d="M 200 141.400 L 279 304 " transform="matrix(1, 0, 0, 1, 82, -6.5)"/>
+  <path id="ID0.7203911086544394" fill="none" stroke="#81290C" stroke-width="15" stroke-linecap="round" d="M 114 105 L 52 187 " transform="matrix(1, 0, 0, 1, 9, -9)"/>
+  <path id="ID0.7203911086544394" fill="none" stroke="#81290C" stroke-width="15" stroke-linecap="round" d="M 114 105 L 52 187 " transform="matrix(1, 0, 0, 1, -52, -25)"/>
+</svg>
